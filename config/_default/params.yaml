@@ -13,18 +13,31 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
+    name: "Madimetja Maredi"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: ""
+    tagline: "MSc in Machine Learning and Artificial Intelligence student"
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website."
+    description: "BSc Honours in Mathematical Statistics graduate. Incoming MSc student in Machine Learning & AI."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "BuildLore"              # Twitter/X handle for Twitter Cards (without @)
+    
+    contact:
+      email: "madimetja.maredi@gmail.com"       # ← Your email
+      phone: "+27 76 791 4416"
+
+  social_links:
+  - platform: github
+    url: "https://github.com/researchmaredi"
+    icon: "fab fa-github"
+  - platform: linkedin
+    url: "https://linkedin.com/in/madimetja-maredi-7409b3241/"
+    icon: "fab fa-linkedin"
+
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
