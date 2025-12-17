@@ -1,0 +1,7 @@
+/* Hide Hugo Blox "Clone this template" button */
+a[href*="hugoblox.com/templates"] {
+  display: none !important;
+}
+
+
+

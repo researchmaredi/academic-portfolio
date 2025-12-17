@@ -122,6 +122,7 @@ hugoblox:
     language_switcher: true
     # Custom footer text (HTML supported)
     text: ""
+    powered_by: false
 
   # ────────────────────────────────────────────────────────────────────────────
   # COPYRIGHT
@@ -129,13 +130,15 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {year} {name}. This work is licensed under {license}"
+    notice: "© {year} {name}"
     license:
       type: cc                          # cc | all_rights | custom
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
-
+# Support the theme's open source creator
+  support:
+    clone: false
   # ────────────────────────────────────────────────────────────────────────────
   # SEO
   # Search engine optimization - overrides and technical settings
