@@ -7,13 +7,15 @@
 hugoblox:
   schema: "2.0"
 
+
   # ────────────────────────────────────────────────────────────────────────────
   # IDENTITY
   # Site-level branding (for people/profiles, use the author system in content/authors/)
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Madimetja Maredi"
+    name: "Madimetja Maredi" #Mustn't show on browser title.
+
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
@@ -89,10 +91,15 @@ hugoblox:
     # Avatar shape in author profiles
     avatar_shape: circle                # circle | square | rounded
 
+    
+
+
   # ────────────────────────────────────────────────────────────────────────────
   # HEADER
   # Site header and navigation bar
   # ────────────────────────────────────────────────────────────────────────────
+
+
   header:
     enable: true
     # Header style variant
@@ -147,6 +154,7 @@ hugoblox:
     # Browser tab title override (defaults to identity.name if not set)
     title: ""
     # For local_business identity type only
+    site_title: false
     location:
       address:
         street: ""
@@ -179,7 +187,7 @@ hugoblox:
       enable: true
     # Reading time estimates
     reading_time:
-      enable: true
+      enable: false
     # Academic citations
     citations:
       style: apa                        # apa | mla | chicago | ieee
@@ -200,7 +208,7 @@ hugoblox:
   # User comments system
   # ────────────────────────────────────────────────────────────────────────────
   comments:
-    enable: false
+    enable: true
     provider: ""                        # giscus | disqus
     giscus:
       repo: ""

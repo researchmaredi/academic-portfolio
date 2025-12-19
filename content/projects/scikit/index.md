@@ -1,13 +1,16 @@
 ---
 title: scikit-learn
-date: 2023-10-26
+date: 
+
+reading_time: false
+profile: false
+share: false
+
+      
 links:
-  - type: site
-    url: https://github.com/scikit-learn/scikit-learn
-tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - icon: github
+    icon_pack: fab
+    url: https://github.com/pandas-dev/pandas
 ---
 
 scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.

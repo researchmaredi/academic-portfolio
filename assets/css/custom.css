@@ -3,5 +3,16 @@ a[href*="hugoblox.com/templates"] {
   display: none !important;
 }
 
+/* Hides the summary text on project cards (listing page) */
+.card .article-style, 
+.card-simple .article-style {
+    display: none !important;
+}
+
+/* Targeted fix based on your inspection screenshot */
+a.group span.flex.flex-col span.text-xs {
+    display: none !important;
+}
+
 
 
