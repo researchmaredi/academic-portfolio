@@ -16,3 +16,4 @@ main:
   - name: Resume
     url: uploads/resume.pdf
     weight: 40
+    target: "_blank"

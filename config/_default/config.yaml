@@ -1,4 +1,6 @@
 params:
   custom_css:
     - css/custom.css
+  custom_js:             # <--- Add this block
+    - js/custom.js
  

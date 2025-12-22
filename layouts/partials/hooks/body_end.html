@@ -1,0 +1,12 @@
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Find all links that point to a PDF file
+    var pdfLinks = document.querySelectorAll('a[href$=".pdf"]');
+    
+    // Force them to open in a new tab
+    pdfLinks.forEach(function(link) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener');
+    });
+  });
+</script>

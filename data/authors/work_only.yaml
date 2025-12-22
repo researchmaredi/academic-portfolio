@@ -1,0 +1,28 @@
+
+# data/authors/work_only.yaml
+
+work:
+  - position: Statistics Tutor
+    company_name: Excel@Uni
+    company_url: ''
+    company_logo: ''
+    start: 2025-09-01
+    end: 2025-11-30
+    summary: "Contract position."
+
+  - position: Applied Statistics III (STSA3716) Teaching Assistant
+    company_name: University of the Free State
+    company_url: ''
+    company_logo: ''
+    start: 2025-03-01
+    end: 2025-06-30
+    summary: ""
+
+  - position: Mathematics for Engineers (MATV111) Teaching Assistant
+    company_name: Nelson Mandela University
+    company_url: ''
+    company_logo: ''
+    start: 2024-02-01
+    end: 2024-07-31
+    summary: |
+      Delivered tutorials, explained concepts clearly, and supported students during problem-solving sessions.
