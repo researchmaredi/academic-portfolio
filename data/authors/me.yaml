@@ -9,11 +9,13 @@ name:
   pronunciation: ''  # Example: Wáng Wěi
 status:
   icon:
-role: MSc student in AI/ML
+role: MSc student in Mathematical Statistics
 bio: |
-   A BSc Honours in Mathematical Statistics graduand with a strong quantitative background and 
-   a solid foundation in data analysis and statistical modelling.
-   Experienced in using R, Python, and SQL. Comfortable working in Linux environments and collaborating via GitHub.
+   MSc Candidate in Mathematical Statistics at the University of the Witwatersrand. 
+   My research focuses on nonparametric estimation via Bernstein copulas, specifically using 
+   Bernstein copulas to analyse how different variables interact and influence each other. 
+   I bridge the gap between advanced statistical theory and computational implementation 
+   using R, Python, and SQL, with an interest in quantitative modelling and data science.
 
 
 links:
@@ -27,9 +29,9 @@ links:
 
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Quantum Computing
+  - Quantitative Risk Management
+  - Extreme Value Theory
+  - Scientific Computing
 
 education:
     - degree: BSc Mathematics and Statistics
